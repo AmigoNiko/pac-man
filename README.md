@@ -1,0 +1,1 @@
+This is my Pac-Man ASCII Game project. I used C++ and implemented features like Pac-Man movement, ghosts with basic AI, and a scoring system. The game runs in the console and loads a map from a text file. I used iostream, fstream, cstdlib, ctime, and windows.h for functionality.
